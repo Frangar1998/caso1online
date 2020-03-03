@@ -1,0 +1,104 @@
+
+-codigo.Customer#statement()Ljava/lang/String;B
+8D:/Datos/Escritorio/Caso1online/src/codigo/Customer.java ("16*˘
+16B
+8D:/Datos/Escritorio/Caso1online/src/codigo/Customer.java (ä
+á
+B
+8D:/Datos/Escritorio/Caso1online/src/codigo/Customer.java ($
+%0java.util.ArrayList"__id* *
+codigo.Customer"	
+rentalsæª
+B
+8D:/Datos/Escritorio/Caso1online/src/codigo/Customer.java (/
+%1java.util.Iterator"2java.util.ArrayList#iterator()Ljava/util/Iterator;*
+
+%0java.util.ArrayList2
+iterator()¨©
+B
+8D:/Datos/Escritorio/Caso1online/src/codigo/Customer.java' (0
+%2java.lang.String"+codigo.Customer#getName()Ljava/lang/String;*
+codigo.Customer2	getName()õ
+ò
+B
+8D:/Datos/Escritorio/Caso1online/src/codigo/Customer.java (0
+%3java.lang.String"__concat*
+Rental Record for *
+
+%2java.lang.Stringã
+à
+B
+8D:/Datos/Escritorio/Caso1online/src/codigo/Customer.java (7
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+\nÄ
+~
+@
+8D:/Datos/Escritorio/Caso1online/src/codigo/Customer.java (8
+resultjava.lang.String"__id*
+
+%4java.lang.String*
+1*ø
+
+1B
+8D:/Datos/Escritorio/Caso1online/src/codigo/Customer.javaB B(Ü
+É
+B
+8D:/Datos/Escritorio/Caso1online/src/codigo/Customer.javaB B(*
+%5java.lang.String"__concat*
+Amount owed is *
+""ã
+à
+B
+8D:/Datos/Escritorio/Caso1online/src/codigo/Customer.javaB C(
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+\n°
+û
+B
+8D:/Datos/Escritorio/Caso1online/src/codigo/Customer.javaB C(
+%7java.lang.String"__concat*
+
+resultjava.lang.String*
+
+%6java.lang.StringÉ
+Ä
+B
+8D:/Datos/Escritorio/Caso1online/src/codigo/Customer.javaB C(
+resultjava.lang.String"__id*
+
+%7java.lang.StringÅ
+
+B
+8D:/Datos/Escritorio/Caso1online/src/codigo/Customer.javaD D(/
+%8java.lang.String"__concat*
+You earned *
+""†
+ù
+B
+8D:/Datos/Escritorio/Caso1online/src/codigo/Customer.javaD F(
+%9java.lang.String"__concat*
+
+%8java.lang.String*
+ frequent renter points¢
+ü
+B
+8D:/Datos/Escritorio/Caso1online/src/codigo/Customer.javaD F(
+%10java.lang.String"__concat*
+
+resultjava.lang.String*
+
+%9java.lang.StringÑ
+Å
+B
+8D:/Datos/Escritorio/Caso1online/src/codigo/Customer.javaD F(
+resultjava.lang.String"__id*
+
+%10java.lang.String"b
+B
+8D:/Datos/Escritorio/Caso1online/src/codigo/Customer.javaG G(
+
+resultjava.lang.StringB
+codigo.Customer

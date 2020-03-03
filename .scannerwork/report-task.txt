@@ -1,0 +1,7 @@
+organization=imaguilacano
+projectKey=caso1
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.5277
+dashboardUrl=https://sonarcloud.io/dashboard?id=caso1
+ceTaskId=AXCftYsUxruHIxJKMv_F
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXCftYsUxruHIxJKMv_F
